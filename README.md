@@ -49,7 +49,7 @@ Celery worker code in another seperate terminal
 celery -A crypto worker -l info
 ```
 
-
 <br>
-<p style="text-align: center"> Copyright &copy; 2020 Michael Saucedo All Rights Reserved</p>
+<div align="center">Copyright &copy; 2020 Michael Saucedo <br> All Rights Reserved</div>
+
 
